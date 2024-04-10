@@ -1,0 +1,5 @@
+Librerías importantes para el desarrollo de los análisis:
+
+- google.cloud
+- pandas
+- matplotlib.pyplot
