@@ -1,2 +1,4 @@
 # Solemne 1
-En este archivo se explorarán y transformarán datos relacionados con el COVID-19 proporcionados un conjunto de datos públicos disponibles en BigQuery API. 
+En este archivo se explorarán y transformarán datos relacionados con el COVID-19 proporcionados por un conjunto de datos públicos disponibles en BigQuery API. 
+El primer análisis de datos realizados fue mediante BigQuery en donde se consultó un conjunto de datos proporcionados por la Universidad de Oxford. Mediante este análisis fue posible en una primera instancia ver la estructura en que se encuentra organizada esta tabla de datos, poder visibilizar esta tabla y realizar consultas de acuerdo a variables que se consideraron relevantes como lo puede ser la cantidad de casos confirmados y la cantidad de muertes debido al COVID-19.
+El segundo análisis correspondió al acceso de una API pública
